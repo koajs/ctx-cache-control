@@ -1,6 +1,6 @@
 {
   "name": "koa-ctx-cache-control",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Augments Koa with ctx.cacheControl(maxAge)",
   "main": "lib",
   "scripts": {
